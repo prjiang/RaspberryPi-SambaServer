@@ -39,8 +39,8 @@ pi@raspberrypi:~ $ sudo service smbd restart
 | System | Command |
 | --- | --- |
 | Windows | \\\IP |
-| Linux | smb://IP/目錄 |
-| Mac OS X | smb://IP/目錄 |
+| Linux | smb://IP/目錄名稱 |
+| Mac OS X | smb://IP/目錄名稱 |
 
 > 參考資料: [RASPBERRY PI 安裝 SAMBA 網路芳鄰伺服器共享 WINDOWS 及 LINUX 檔案](http://blog.s2u4o.com/education/self-study/software-settings/raspbiansamba/)
 
