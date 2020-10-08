@@ -8,7 +8,7 @@ pi@raspberrypi:~ $ sudo apt-get insatll samba
 <br>
 
 ## Setting Samba
-設定 SambaServer 的密碼。
+加入 SambaServer 並設定密碼。
 ```
 pi@raspberrypi:~ $ sudo pdbedit -a -u pi
 ```
