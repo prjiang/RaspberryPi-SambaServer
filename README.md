@@ -1,7 +1,4 @@
 # RaspberryPi-SambaServer
-
-<br>
-
 ## Install Samba
 ```
 pi@raspberrypi:~ $ sudo apt-get insatll samba
