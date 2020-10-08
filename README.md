@@ -16,7 +16,7 @@ pi@raspberrypi:~ $ sudo pdbedit -a -u pi
 ```
 pi@raspberrypi:~ $ sudo nano /etc/samba/smb.conf
 ```
-在設定檔最後加入以下參數。
+在設定檔最後加入以下設定。
 ```
 [Pi]
 	comment = Pi's home
