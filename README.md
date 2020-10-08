@@ -35,6 +35,7 @@ pi@raspberrypi:~ $ sudo service smbd restart
 <br>
 
 ## Usage
+於檔案總管的網址列輸入以下指令，即可透過網路芳鄰讀取或寫入 Raspberry Pi 中的目錄與檔案。
 | System | Command |
 | --- | --- |
 | Windows | \\\IP |
