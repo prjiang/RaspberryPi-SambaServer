@@ -18,8 +18,8 @@ pi@raspberrypi:~ $ sudo nano /etc/samba/smb.conf
 ```
 在設定檔最後加入以下以下參數。
 ```
-[RPiZW]
-	comment = RPi
+[Pi]
+	comment = Pi's home
 	path = /home/pi
 	read only = no
 	guest ok = no
